@@ -7,7 +7,7 @@ Our app- MedScanner does all the above, and more! By simply holding the camera i
 
 Our app also keeps a record of the patient's health issues which helps it better detect whether the medicine is the right one for the patient. Moreover, in case of wrong medicines, it can suggest alternatives. 
 
-video link
+[Youtube video link](https://youtu.be/XtpB3YHFA5U)
 
 
 Name | Description
