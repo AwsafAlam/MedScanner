@@ -14,7 +14,7 @@ Name | Description
 ------------ | -------------
 App File Name | link
 Team Name | Inception
-Short Description  | Changing Medicine. Changing Lives
+Short Description  | Changing medicine, changing lives.
 License | MIT License
 Country | Bangladesh
 Author | [Awsaf Alam](https://github.com/AwsafAlam)
