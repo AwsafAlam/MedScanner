@@ -9,6 +9,9 @@ Our app also keeps a record of the patient's health issues which helps it better
 
 video link
 
+
+Name | Description
+------------ | -------------
 App File Name | link
 Team Name | Inception
 Short Description  | Changing Medicine. Changing Lives
