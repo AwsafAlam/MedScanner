@@ -17,6 +17,5 @@ Team Name | Inception
 Short Description  | Changing medicine, changing lives.
 License | MIT License
 Country | Bangladesh
-Author | [Awsaf Alam](https://github.com/AwsafAlam)
-         [Faria huq](https://github.com/oaishi)
+Author | [Awsaf Alam](https://github.com/AwsafAlam) , [Faria huq](https://github.com/oaishi)
 
