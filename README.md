@@ -12,10 +12,11 @@ Our app also keeps a record of the patient's health issues which helps it better
 
 Name | Description
 ------------ | -------------
-App File Name | link
+App File Name | [MedScanner](https://github.com/AwsafAlam/MedScanner/blob/master/app-debug.apk)
 Team Name | Inception
 Short Description  | Changing medicine, changing lives.
 License | MIT License
 Country | Bangladesh
 Author | [Awsaf Alam](https://github.com/AwsafAlam)
+         [Faria huq](https://github.com/oaishi)
 
