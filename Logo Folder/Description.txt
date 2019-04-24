@@ -1,0 +1,7 @@
+This folder includes three files.
+
+1. Icon.png : Hi-res icon Default – English 512 x 512 32-bit PNG
+
+2. Feature.jpg : Feature graphic Default – English – 1024 w x 500 h JPG or 24-bit PNG
+
+3. PromoGraphic.jpg : Promo Graphic Default – English 180 w x 120 h JPG or 24-bit PNG
